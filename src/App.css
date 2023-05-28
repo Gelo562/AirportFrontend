@@ -1,6 +1,11 @@
 .App {
   text-align: center;
 }
+.object{
+  float:left;
+  margin-left: 3px; 
+  font-size: small;
+}
 
 .App-logo {
   height: 40vmin;
